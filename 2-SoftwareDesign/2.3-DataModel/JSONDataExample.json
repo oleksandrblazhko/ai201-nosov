@@ -1,0 +1,18 @@
+{
+  "maps api": {
+    "name": "dance gym",
+    "rating": 5,
+    "location": {
+      "coordX": 1234,
+      "coordY": 4321,
+    }
+  },
+  "consumer": {
+    "name": "Pavlo",
+    "mail": "pavlodancer@gmail.com",
+    "location": {
+      "coordX": 1213,
+      "coordY": 3542,
+    }
+  }
+}
