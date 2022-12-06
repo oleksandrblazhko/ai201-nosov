@@ -1,0 +1,22 @@
+@startjson
+
+title JSON Data
+{
+  "maps api": {
+    "name": "sport gym",
+    "rating": 5,
+    "location": {
+      "coordX": 4312,
+      "coordY": 4124
+    }
+  },
+  "consumer": {
+    "name": "Andrey",
+    "mail": "nandryuhan1@gmail.com",
+    "location": {
+      "coordX": 184758,
+      "coordY": 782376
+    }
+  }
+}
+@endjson
