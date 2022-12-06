@@ -1,1 +1,1 @@
-![](//www.plantuml.com/plantuml/png/ZT0zoy8m50NWFRyYP2ulf1zlYrC59mSTN7IyjA56cfkIf4EH_dTl_52aYqE6ynn23gbz01SktY9ZGOTUyUrXl-CR2C2kZ7DXOF0S1YrMF6OI1ACe2JzO5tWt6P4y2WT1OqTLyOJUDaGMttV96cjTUoJ9CvacNtgAAjFyZZEZGttiq8z6kUM2DRPEJQ_d3UW-AWBnD9u1PTr5_6ki4RzCabLU5jLoL5cbMVd_cSLcLYjiuw_T0000)
+![](https://raw.githubusercontent.com/oleksandrblazhko/ai201-nosov/laboratory-work-7/2-SoftwareDesign/2.7-PlantUML/DataModel.puml)
